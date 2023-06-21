@@ -1,2 +1,2 @@
 # nwbarendregt.github.io
-Professional website
+Nicholas Barendregt's professional website
